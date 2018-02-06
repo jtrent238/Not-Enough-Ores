@@ -29,6 +29,53 @@ minetest.register_craftitem('notenoughores:ItemCopperIngot', {
     stack_max = 64,
 })
 
+minetest.register_craftitem('notenoughores:ItemSilverIngot', {
+    description = 'Silver Ingot',
+    inventory_image = 'ItemSilverIngot.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemTinIngot', {
+    description = 'Tin Ingot',
+    inventory_image = 'ItemTinIngot.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemAluminumIngot', {
+    description = 'Aluminum Ingot',
+    inventory_image = 'ItemAluminumIngot.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemTitianumIngot', {
+    description = 'Titianum Ingot',
+    inventory_image = 'ItemTitianumIngot.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemUraninumIngot', {
+    description = 'Uraninum Ingot',
+    inventory_image = 'ItemUraninumIngot.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemRuby', {
+    description = 'Ruby',
+    inventory_image = 'ItemRuby.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemAmethest', {
+    description = 'Amethest',
+    inventory_image = 'ItemAmethest.png',
+    stack_max = 64,
+})
+
+minetest.register_craftitem('notenoughores:ItemSilverIngot', {
+    description = 'Silver Ingot',
+    inventory_image = 'ItemSilverIngot.png',
+    stack_max = 64,
+})
 
 
 -- CRAFTS
