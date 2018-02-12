@@ -12,7 +12,7 @@ LIGHT_MAX = 14
 default = {}
 
 -- Load other files
-dofile(minetest.get_modpath("notenoughores").."/functions.lua")
+--dofile(minetest.get_modpath("notenoughores").."/functions.lua")
 
 -- Set a noticeable inventory formspec for players
 minetest.register_on_joinplayer(function(player)
